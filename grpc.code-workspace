@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "src/GrpcGreeter"
+		},
+		{
+			"path": "src/GrpcGreeterClient"
+		}
+	],
+	"settings": {}
+}
